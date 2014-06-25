@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  body: MyText
+  contact_id: 
+  contactshare_id: 
+  user_id: 
+
+two:
+  body: MyText
+  contact_id: 
+  contactshare_id: 
+  user_id: 
